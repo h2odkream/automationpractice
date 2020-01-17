@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Prueba practica." tests="1" skipped="0" failures="0" errors="0" timestamp="2020-01-17T22:07:44" hostname="CPX-T77XAZYFACS" time="60.356">
+  <properties/>
+  <testcase name="Comprar los productos" classname="Prueba practica." time="60.356"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Jan 17, 2020 5:07:44 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e) on port 31109
+Only local connections are allowed.
+[1579298870.322][WARNING]: Timed out connecting to Chrome, retrying...
+Jan 17, 2020 5:07:52 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+[Test worker] INFO net.serenitybdd.core.Serenity - ?[92m
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Comprar los productos
+----------------------------------------------------------------------------?[0m
+]]></system-err>
+</testsuite>
